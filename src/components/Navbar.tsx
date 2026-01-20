@@ -49,7 +49,7 @@ const Navbar = () => {
             }}
             className="text-2xl font-heading font-bold gradient-text"
           >
-            <img src="/public/SY website logo.png" alt="Logo" className="h-40 w-100 pt-4" />
+            <img src="/public/logo.png" alt="Logo" className="h-40 w-100 pt-4" />
           </a>
 
           {/* Desktop Navigation */}
