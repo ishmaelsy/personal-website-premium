@@ -11,7 +11,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     icon: Linkedin,
-    url: "https://linkedin.com/in/ishmaelsy",
+    url: "https://www.linkedin.com/in/ishmaelsy/",
   },
   {
     name: "Twitter",
