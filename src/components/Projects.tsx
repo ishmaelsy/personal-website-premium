@@ -26,11 +26,11 @@ const projects = [
     githubUrl: "#",
   },
   {
-    title: "Campus Buy (coming soon)",
+    title: "Campus Buy",
     description:
       "A web platform for students to buy and sell items within their campus community. Includes user authentication and item listings.",
     tech: ["HTML", "CSS", "JavaScript", "API", "Firebase", "React"],
-    liveUrl: "#",
+    liveUrl: "https://campusbuy.store/",
     githubUrl: "#",
   },
 ];
