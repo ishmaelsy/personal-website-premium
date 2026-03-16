@@ -10,6 +10,14 @@ const projects = [
     githubUrl: "#",
   },
   {
+    title: "Campus Buy",
+    description:
+      "A web platform for students to buy and sell items within their campus community. Includes user authentication and item listings.",
+    tech: ["HTML", "CSS", "JavaScript", "API", "Firebase", "React"],
+    liveUrl: "https://campusbuy.store/",
+    githubUrl: "#",
+  },
+  {
     title: "Voting Application (coming soon)",
     description:
       "A modern web application that enables users to participate in polls and elections. Features real-time vote counting and responsive design.",
@@ -25,14 +33,7 @@ const projects = [
     liveUrl: "#",
     githubUrl: "#",
   },
-  {
-    title: "Campus Buy",
-    description:
-      "A web platform for students to buy and sell items within their campus community. Includes user authentication and item listings.",
-    tech: ["HTML", "CSS", "JavaScript", "API", "Firebase", "React"],
-    liveUrl: "https://campusbuy.store/",
-    githubUrl: "#",
-  },
+  
 ];
 
 const Projects = () => {
