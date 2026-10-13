@@ -13,8 +13,16 @@ const projects = [
     title: "Campus Buy",
     description:
       "A web platform for students to buy and sell items within their campus community. Includes user authentication and item listings.",
-    tech: ["HTML", "CSS", "JavaScript", "API", "Firebase", "React"],
+    tech: ["HTML", "CSS", "JavaScript", "API", "Firebase", "React", "Supabase"],
     liveUrl: "https://campusbuy.store/",
+    githubUrl: "#",
+  },
+   {
+    title: "Scrollvend",
+    description:
+      "A platform for creators in africa to sell their digital products. Online sellers can create an online shop for their businesses.",
+    tech: ["HTML", "CSS", "JavaScript", "React", "Supabase"],
+    liveUrl: "https://scrollvend.com",
     githubUrl: "#",
   },
   {
